@@ -82,6 +82,10 @@ transform.position = startPos + new Vector3(movement, 0, 0);
 
 
 
+<img width="1533" height="860" alt="WhatsApp Image 2026-11-03 at 2 33 53 PM" src="https://github.com/user-attachments/assets/a492e6bc-5615-43e9-b7a9-1b4baf25e0d6" />
+
+<img width="1526" height="862" alt="WhatsApp Image 2026-11-03 at 2 33 53 PM (1)" src="https://github.com/user-attachments/assets/56b4563e-e255-484c-bbb8-1673a14dae43" />
+
 
 
 
